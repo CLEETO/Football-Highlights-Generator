@@ -5,3 +5,5 @@ The program is based on simple logic of analysing the background noise of the vi
 
 Problems:
 As the time range for the summary decreases the accuracy of the summary decreases.
+The GUI becomes unresponsive for the time in which the summary is being analysed.
+The entire process to create the output video takes anywhere between 5 to 15 minutes due to limited processing power.
